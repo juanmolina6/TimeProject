@@ -1,0 +1,15 @@
+C:\Programas EdD\Time\Timeproject\Timeproject\bin\Debug\net8.0\Timeproject.exe
+C:\Programas EdD\Time\Timeproject\Timeproject\bin\Debug\net8.0\Timeproject.deps.json
+C:\Programas EdD\Time\Timeproject\Timeproject\bin\Debug\net8.0\Timeproject.runtimeconfig.json
+C:\Programas EdD\Time\Timeproject\Timeproject\bin\Debug\net8.0\Timeproject.dll
+C:\Programas EdD\Time\Timeproject\Timeproject\bin\Debug\net8.0\Timeproject.pdb
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.AssemblyInfoInputs.cache
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.AssemblyInfo.cs
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.csproj.CoreCompileInputs.cache
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.sourcelink.json
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.dll
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\refint\Timeproject.dll
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.pdb
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\Timeproject.genruntimeconfig.cache
+C:\Programas EdD\Time\Timeproject\Timeproject\obj\Debug\net8.0\ref\Timeproject.dll
