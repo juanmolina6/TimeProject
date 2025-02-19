@@ -103,7 +103,7 @@
 
         public override string ToString()
         {
-            //hola mundo
+            
             var isPM = _hour >= 12;
             var period = isPM ? "PM" : "AM";
 
