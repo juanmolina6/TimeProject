@@ -1,0 +1,15 @@
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.AssemblyInfoInputs.cache
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.AssemblyInfo.cs
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.csproj.CoreCompileInputs.cache
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.sourcelink.json
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\bin\Debug\net8.0\TimeClass.exe
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\bin\Debug\net8.0\TimeClass.deps.json
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\bin\Debug\net8.0\TimeClass.runtimeconfig.json
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\bin\Debug\net8.0\TimeClass.dll
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\bin\Debug\net8.0\TimeClass.pdb
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.dll
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\refint\TimeClass.dll
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.pdb
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\TimeClass.genruntimeconfig.cache
+C:\Projects EdD\Timeproject\TimeClass\TimeClass\TimeClass\obj\Debug\net8.0\ref\TimeClass.dll
